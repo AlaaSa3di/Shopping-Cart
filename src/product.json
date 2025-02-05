@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Milk ",
+        "price": "3.00JD",
+        "image": "https://cdn.theatlantic.com/thumbor/GCqfW0ynNbC6W-zNYako3g_vVlo=/451x36:1531x1116/1080x1080/media/img/mt/2024/10/Atlantic_Milk_2000x1125/original.jpg",
+        "id": "1"
+    },
+    {
+        "title": "Bread ",
+        "price": "2.00JD",
+        "image": "https://static01.nyt.com/images/2024/10/08/multimedia/13EATrex-LD-briocherex-blfk/13EATrex-LD-briocherex-blfk-jumbo.jpg",
+        "id": "2"
+    },
+    {
+        "title": "Eggs ",
+        "price": "3.00JD",
+        "image": "https://media.post.rvohealth.io/wp-content/uploads/2025/01/dozen-eggs-store-1296x728-header-1296x729.jpg",
+        "id": "3"
+    },
+    {
+        "title": "Chicken Breast",
+        "price": "6.50JD",
+        "image": "https://www.joesfreshpoultry.com.au/cdn/shop/products/chicken-breast-raw_66ab5241-69c4-4dec-9c7e-25e9f1a5f631.jpg?v=1658364416",
+        "id": "4"
+    },
+    {
+        "title": "Rice ",
+        "price": "5.50",
+        "image": "https://recipes.timesofindia.com/thumb/54504752.cms?width=1200&height=900",
+        "id": "5"
+    },
+    {
+        "title": "Fresh Orange",
+        "price": "2.75JD",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2017/06/oranges-85fb2b6.jpg",
+        "id": "6"
+    },
+    {
+        "title": "Kiwi",
+        "price": "3.00JD",
+        "image": "https://snaped.fns.usda.gov/sites/default/files/seasonal-produce/2018-05/kiwi.jpg",
+        "id": "7"
+    },
+    {
+        "title": "Ice cream",
+        "price": "1.00JD",
+        "image": "https://becs-table.com.au/wp-content/uploads/2014/01/ice-cream-1.jpg",
+        "id": "8"
+    },
+    {
+        "title": "Frozen Pizza",
+        "price": "2.50JD",
+        "image": "https://www.allrecipes.com/thmb/aefJMDXKqs42oAP71dQuYf_-Qdc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6776_Pizza-Dough_ddmfs_4x3_1724-fd91f26e0bd6400a9e89c6866336532b.jpg",
+        "id": "9"
+    },
+    {
+        "title": "Chips",
+        "price": "1.00",
+        "image": "https://assets.bonappetit.com/photos/6346eb04a5623aca83a635e3/3:2/w_2672,h_1781,c_limit/1012-easy-apps-chips-lede.jpg",
+        "id": "10"
+    }
+]

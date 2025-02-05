@@ -1,0 +1,141 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: black;
+}
+.app-container {
+  margin: 20px 50px 20px 50px;
+  padding: 20px;
+  background: #ffffff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Products */
+.product-list h2,
+.cart h2 {
+  text-align: center;
+  color: #333;
+}
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+}
+
+.product-card {
+  width: 200px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  overflow: hidden; 
+}
+
+.product-image {
+  width: 150px; 
+  height: 150px; 
+  object-fit: cover; 
+  border-radius: 8px; 
+  margin-bottom: 10px; 
+}
+
+.product-card h3 {
+  color: black;
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.product-card p {
+  font-size: 14px;
+  color: #555;
+}
+
+.product-card button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.product-card button:hover {
+  background-color: #218838;
+}
+
+/* Cart */
+.cart-items {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.cart-item-image {
+  width: 50px;
+  height: auto;
+  margin-right: 15px;
+}
+
+.cart-item-details {
+  flex-grow: 1;
+}
+
+.cart-item-details h3 {
+  color: black;
+  font-size: 16px;
+  margin: 0;
+}
+
+.cart-item-details p {
+  color: #555;
+  margin: 5px 0;
+}
+
+.cart-item-details input {
+  width: 50px;
+  padding: 4px;
+  margin-right: 10px;
+}
+
+.remove-btn {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.remove-btn:hover {
+  background-color: #c82333;
+}
+
+/* Total */
+.cart-total {
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.cart-total h3 {
+  color: black;
+}
